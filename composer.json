@@ -1,0 +1,18 @@
+{
+    "name": "duyuan1989/test",
+    "description": "test myself",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "duyuan",
+            "email": "275392854@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+   "autoload":{
+	"psr-4":{"duyuan\\test\\":"src"}		
+    }
+}
