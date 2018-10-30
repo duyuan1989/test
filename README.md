@@ -1,2 +1,2 @@
 # test
-test myself
+test php composer  packagist
